@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili Visual Video Summary"
+  short_description: "Summarize video speech together with important visuals"
+  default_prompt: "Use $bilibili-video-visual-summary to summarize what is said and shown in this Bilibili video."
