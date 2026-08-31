@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili Video Summary"
+  short_description: "Summarize video speech without analyzing visual frames"
+  default_prompt: "Use $bilibili-video-summary to summarize the spoken content of this Bilibili video."
